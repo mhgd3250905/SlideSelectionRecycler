@@ -1,0 +1,2 @@
+# SlideSelectionRecycler
+这是一个模仿华为文件管理滑动选择文件的RecyclerView实现demo
